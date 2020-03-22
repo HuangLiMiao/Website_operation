@@ -108,4 +108,17 @@
 - 简明的图像搭配精简的文字，图文搭配，用户理解起来也更加容易。同时也能够让人一眼就知道网站想要表达的产品特性。
 <img src="https://github.com/HuangLiMiao/Website_operation/blob/master/img/apple_6.png?raw=true" />
 
+#### 为图片创建文字记录
+- 介绍iMac与iPhone之间互通功能的图片，它作为重要视觉内容，苹果官网对它配以了适当的文字描述记录。图文相配以达到更好的表述效果，更直观的让顾客了解两者之间的互通功能的实际操作。
+<img src="https://github.com/HuangLiMiao/Website_operation/blob/master/img/tuwen1.png"   />
+<img src="https://github.com/HuangLiMiao/Website_operationblob/master/img/tuwen2.png"   />
 
+#### 提供明确的指示
+- 在购买页面中，官网复杂繁多的产品数据进行分类，确保的指示和指导避免不必要的技术性语言，让顾客能更清晰的对产品性能进行选择，不易出错。
+- 同时官网明确把每一个选择所需增加的价格标注在旁，清晰的指示传达用户应花费多少价格。
+<img src="https://github.com/HuangLiMiao/Website_operation/blob/master/img/zhishi.png"   />
+
+#### 保持内容清晰简洁
+- 官网对下图MAC产品的数据内容用简短、清晰的句子进行描述，适当的简单的语言更便于用户读取。
+- 并且使用适当的列表格式，使各产品的众多数据进行了对比，让顾客更好的进行选择心水产品。
+<img src="https://github.com/HuangLiMiao/Website_operation/blob/master/img/neirong.png"   />
