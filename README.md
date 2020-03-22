@@ -1,6 +1,6 @@
 
 
-### [编写网页可访问性的入门提示](https://www.w3.org/WAI/tips/writing/#provide-informative-unique-page-titles)
+### [一.编写网页可访问性的入门提示](https://www.w3.org/WAI/tips/writing/#provide-informative-unique-page-titles)
 #### 摘要
 - 这篇文章介绍了一些基本的注意事项，以帮助您编写障碍人士更容易访问的网页内容。这些技巧是帮助您满足网络内容可接近原则（WCAG）要求的良好实践。请遵循相关WCAG需求的链接、“理解”文档中的详细背景、教程中的指导、用户故事等。
 #### 页面内容
@@ -84,6 +84,28 @@
 
 <img src="https://github.com/HuangLiMiao/Website_operation/blob/master/img/pic_15.PNG?raw=true" />
 
+### [二.点评苹果官网](https://www.apple.com.cn/)
+- 苹果官网作为一个宣传产品和出售产品的平台，能够具备简洁霸气的特点真的让人感觉非常高端，简洁的页面以及独特的页面滑动展示产品特征的小设计都让人眼前一亮，这也是我和搭档选择分析这个网站的原因，接下来就让我们一起来看看关于苹果官网的一些小设计吧！
+#### 提供内容丰富，独特的页面标题
+- 选择任意一件产品，苹果官网都会有相对应表明产品特征的简洁标题，这不仅能够迅速吸引客户的眼球，还能让用户更快的区分各种产品的不同。
+<img src="https://github.com/HuangLiMiao/Website_operation/blob/master/img/apple_1.png?raw=true" />
+<img src="https://github.com/HuangLiMiao/Website_operation/blob/master/img/apple_2.png?raw=true" />
 
+
+
+#### 使用标题传达含义和结构
+- 每描述一样产品，除了正居页面头部中间的标题，苹果官网还设计了若干的小标题来区分内容，因为内容结构分明的页面能够让用户更快的抓到重点找到自己想获取到的产品信息，所以同时也节约了用户的时间。
+<img src="https://github.com/HuangLiMiao/Website_operation/blob/master/img/apple_3.png?raw=true" />
+<img src="https://github.com/HuangLiMiao/Website_operation/blob/master/img/apple_4.png?raw=true" />
+
+
+
+#### 使链接文字有意义
+- 在编写跳转链接文字这一块，苹果官网将链接内容的主题直接作为链接文字，减少用户寻找相应跳转链接的时间。
+<img src="https://github.com/HuangLiMiao/Website_operation/blob/master/img/apple_5.png?raw=true" />
+
+#### 为图像编写有意义的文本替代
+- 简明的图像搭配精简的文字，图文搭配，用户理解起来也更加容易。同时也能够让人一眼就知道网站想要表达的产品特性。
+<img src="https://github.com/HuangLiMiao/Website_operation/blob/master/img/apple_6.png?raw=true" />
 
 
